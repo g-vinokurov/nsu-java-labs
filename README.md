@@ -1,1 +1,1 @@
-# nsu-java-labs
+# NSU Java Labs
